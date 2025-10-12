@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 50%;
+    text-align: center;
+   text-decoration: underline;
+   background-color: aqua;
+   margin: 0px;
+}
+div {
+    margin: 20px;
+    border: 4px solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    background-color: blanchedalmond;
+} 
